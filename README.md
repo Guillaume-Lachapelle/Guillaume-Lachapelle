@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Guillaume
 
 # 💫 About Me:
-I am a fourth-year software engineering student at Concordia University. Member of the Institute for Co-operative Education.
+I am a software developer with a BEng in Software Engineering from Concordia University.
 
 
 ## 🌐 Connect with me:
